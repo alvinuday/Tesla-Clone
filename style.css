@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* <-------NAVIGATION BAR------------->*/
+.nav-container{
+    display: flex;
+    background-color: rgb(86, 153, 8);
+    width: 100vw;
+    height: 52px; 
+    flex-direction: row;
+    justify-content: space-between;
+}
+.menu-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:red;
+}
