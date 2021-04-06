@@ -427,7 +427,7 @@ p>a {
         font-size: 12px;
     }
     .nav-container-secondary {
-        position: block;
+        position: absolute;
     left: 35vw;
     bottom: 39vh; 
     z-index: 100;
